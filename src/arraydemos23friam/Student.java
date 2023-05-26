@@ -5,6 +5,7 @@ package arraydemos23friam;
 public class Student {
     //comment added at 9.00 am
     //comment for today
+    //comment for merge and pull
     
     private String sId;
     private String sName;
